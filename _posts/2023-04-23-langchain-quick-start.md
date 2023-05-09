@@ -1,5 +1,5 @@
 ---
-title: 快速开始（Quick Start）
+title: langchain文档翻译-快速开始（Quick Start）
 date: 2023-05-09
 categories: [langchain-0.0.147]
 tags: [langchain]
