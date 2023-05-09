@@ -7,8 +7,6 @@ tags: [langchain]
 
 本教程将简要介绍如何使用 LangChain 构建端到端的语言模型应用程序。
 
->This tutorial gives you a quick walkthrough about building an end-to-end language model application with LangChain.
-
 ## 安装
 
 要开始使用LangChain，请使用以下命令安装：
